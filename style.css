@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: sans-serif;
+}
+
+.banner-text{
+  width: 100%
+  position:absolute;
+}
+
+.banner-text ul{
+  height: 50px;
+  float: right;
+}
+
+.banner-tex ul li{
+  display: inline-block;
+  padding: 40px 15px;
+  text-transform: uppercase;
+  color: #000;
+  font-size: 20px;
+}
